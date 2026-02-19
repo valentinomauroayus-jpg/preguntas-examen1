@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("🚀 Evolución del iPhone y sus Innovaciones")
-st.write("Responde a las preguntas.¡Buena suerte!")
+st.write("Responde a las preguntas. ¡Buena suerte!")
 
 preguntas = [
     {
